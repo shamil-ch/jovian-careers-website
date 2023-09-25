@@ -13,13 +13,13 @@ JOBS = [
   'id': 2,
   'title': 'Data Scientist',
   'location': 'mumbai',
-  'salary': 'Rs. 50000'
+  'salary': 'Rs. 40000'
 },
 {
   'id': 3,
   'title': 'software developer',
   'location': 'banglore',
-  'salary': 'Rs. 15000'
+  'salary': 'Rs. 20000'
 },
   {
   'id': 4,
